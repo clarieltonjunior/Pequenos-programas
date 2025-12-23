@@ -1,1 +1,2 @@
-Pequenos exercicios todos os dias para praticar, evoluindo todos os dia.
+Exercicios de rotina desde um 'Olá, Mundo!'
+até algo mais repetitivo.
